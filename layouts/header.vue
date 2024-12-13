@@ -1,10 +1,10 @@
 <template>
     <main>
-        <header class="max-w-sm sm:max-w-xl mx-auto text-black py-6 mb-6">
-            <div class="max-w-xl flex justify-between mx-auto items-center">
-                <p>Master Quizz 	&#x1F44C</p>
+        <header class="max-w-full bg-gray-800 text-white py-4">
+            <div class="max-w-7xl mx-auto flex justify-between items-center px-4">
+                <p class="text-xl font-bold">Master Quizz</p>
                 <NuxtLink to="/">
-                    <Button> Accueil 	&#x1F3E0</Button>
+                    <Button>Accueil</Button>
                 </NuxtLink>
             </div>
         </header>
