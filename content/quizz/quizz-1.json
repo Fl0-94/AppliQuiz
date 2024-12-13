@@ -1,0 +1,36 @@
+{
+    "slug": "quizz-1",
+    "title": "Quizz sciences",
+    "questions" : [
+        {
+            "title": "Quelle est la formule chimique de l'eau ?",
+            "answers": [
+                "H2O",
+                "CO2", 
+                "O2",
+                "N2"
+            ],
+            "correctAnswer": "H2O"
+        },
+        {
+            "title": "Quelle planète est la plus proche du Soleil ?",
+            "answers": [
+                "Terre",
+                "Mars", 
+                "Mercure",
+                "Vénus"
+            ],
+            "correctAnswer": "Mercure"
+        },
+        {
+            "title": "Quelle est la vitesse de la lumière ?",
+            "answers": [
+                "300 000 km/s",
+                "150 000 km/s", 
+                "450 000 km/s",
+                "600 000 km/s"
+            ],
+            "correctAnswer": "300 000 km/s"
+        }
+    ]
+}

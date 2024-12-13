@@ -1,0 +1,36 @@
+{
+    "slug": "quizz-2",
+    "title": "Quizz géographie",
+    "questions" : [
+        {
+            "title": "Quel est le plus grand désert du monde ?",
+            "answers": [
+                "Sahara",
+                "Gobi", 
+                "Kalahari",
+                "Arctique"
+            ],
+            "correctAnswer" : "Sahara"
+        },
+        {
+            "title": "Quelle est la capitale de l'Australie ?",
+            "answers": [
+                "Sydney",
+                "Melbourne", 
+                "Canberra",
+                "Brisbane"
+            ],
+            "correctAnswer" : "Canberra"
+        },
+        {
+            "title": "Quel est le plus long fleuve du monde ?",
+            "answers": [
+                "Nil",
+                "Amazone", 
+                "Yangtsé",
+                "Mississippi"
+            ],
+            "correctAnswer" : "Amazone"
+        }
+    ]
+}

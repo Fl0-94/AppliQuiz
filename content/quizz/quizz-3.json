@@ -1,0 +1,36 @@
+{
+    "slug": "quizz-3",
+    "title": "Quizz Formule 1",
+    "questions" : [
+        {
+            "title": "Qui a remporté le plus de titres de champion du monde de Formule 1 ?",
+            "answers": [
+                "Michael Schumacher",
+                "Lewis Hamilton",
+                "Ayrton Senna",
+                "Sebastian Vettel"
+            ],
+            "correctAnswer": "Michael Schumacher"
+        },
+        {
+            "title": "Quel circuit accueille le Grand Prix de Monaco ?",
+            "answers": [
+                "Circuit de la Sarthe",
+                "Circuit de Monaco",
+                "Circuit de Silverstone",
+                "Circuit de Spa-Francorchamps"
+            ],
+            "correctAnswer": "Circuit de Monaco"
+        },
+        {
+            "title": "Quelle écurie a remporté le plus de titres constructeurs en Formule 1 ?",
+            "answers": [
+                "Ferrari",
+                "McLaren",
+                "Mercedes",
+                "Red Bull Racing"
+            ],
+            "correctAnswer": "Ferrari"
+        }
+    ]
+}
